@@ -1,0 +1,101 @@
+header {
+  height: 70px;
+  background-color: #0c2a60;
+  border: 1px solid black;
+}
+
+.row_1 {
+  height: 70px;
+  background-color: lightblue;
+  border: 1px solid black;
+}
+
+.sub_row_1_left [class^="col-"] {
+  height: 70px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.sub_row_1_right [class^="col-"] {
+  height: 70px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.banner {
+  height: 500px;
+  background-color: lightgreen;
+  border: 1px solid black;
+}
+
+.row_2 {
+  height: 250px;
+  background-color: green;
+  border: 1px solid black;
+}
+
+.row_2_top {
+  height: 100%;
+  background-color: coral;
+  border: 1px solid black;
+}
+
+.row_3 {
+  height: 125px;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+.row_3_center {
+  height: 100%;
+  background-color: #738310;
+  border: 1px solid black;
+}
+
+.row_4 {
+  height: 125px;
+  background-color: orange;
+  border: 1px solid black;
+}
+
+.row_4_bottom {
+  height: 100%;
+  background-color: #591083;
+  border: 1px solid black;
+}
+
+.row_5_first {
+  height: 150px;
+  background-color: lightblue;
+  border: 1px solid black;
+}
+
+.row_5_second {
+  content: "";
+  display: table;
+  clear: both;
+  height: 600px;
+  background-color: pink;
+  border: 1px solid black;
+}
+
+.row_5_second_item {
+
+  background-color: pink;
+  border: 1px solid black;
+}
+
+.row_card {
+background-color: yellow;
+}
+
+.about {
+  height: 300px;
+  background-color: lightgreen;
+}
+
+.row_6 {
+  height: 100px;
+  background-color: white;
+  border: 1px solid black;
+}
