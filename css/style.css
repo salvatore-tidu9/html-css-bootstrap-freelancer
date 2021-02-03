@@ -99,3 +99,26 @@ background-color: yellow;
   background-color: white;
   border: 1px solid black;
 }
+
+.contact_me {
+  height: 500px;
+  background-color: grey;
+}
+
+.row_7_top {
+  height: 150px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.row_7_center {
+  height: 300px;
+  background-color: orange;
+  border: 1px solid black;
+}
+
+.row_7_bottom {
+  height: 50px;
+  background-color: white;
+  border: 1px solid black
+}
